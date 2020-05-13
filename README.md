@@ -1,2 +1,2 @@
-# twitter-nlp
-I will study the feasibility of applying NLP for crisis control in social networks suggesting a application of chatbot to absorb such demands from users.
+# Case study: Analysis and detection of formation of crises linked to the Madeiro brand on Twitter
+Crises on social networks can be critical to a brand's image, and can reduce sales of any product. As Silva and Oliveira (2020) say, social networks are part of the routine of most Brazilian purchasing decision makers. These provide a comfortable and conducive environment for consumers to express their experiences with the brands / products, through complaints, recommendations, opinions expressed regarding experiences with similar products. And from that, a great challenge is created for companies and marketers, which is to identify the origin of changes in consumer behavior, the influence of the user experience in strengthening the brand and the competitiveness standards of the markets.
